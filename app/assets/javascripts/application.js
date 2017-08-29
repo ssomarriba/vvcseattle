@@ -15,3 +15,5 @@
 //= require_tree .
 //= require jquery
 //= require bootstrap-sprockets
+
+$('body').scrollspy({ target: '#bs-example-navbar-collapse-1' })
