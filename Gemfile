@@ -60,3 +60,4 @@ gem 'pg'
 end
 
 ruby "2.4.1"
+gem 'webpacker', '~> 3.5'
